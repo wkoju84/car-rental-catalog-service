@@ -1,0 +1,1 @@
+CREATE INDEX idx_vehicles_category_location_status ON vehicles (category_id, location_id, status);
